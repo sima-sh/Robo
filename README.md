@@ -9,7 +9,7 @@ The hardware components used in this project are as follows:
 
 Module Testing
 Before putting the modules together, each one of the modules should be working separately. Below are the ways modules can be tested:
-# Test Description	                                Expected Result
+Test Description	                                  Expected Result
 1 Manual button is pressed	                        The test LED is turns on
 2 Manual button is pressed when test LED is on	        The test LED turns off
 3 Blocking the Light sensor 	                        The lux value is lower than 10
